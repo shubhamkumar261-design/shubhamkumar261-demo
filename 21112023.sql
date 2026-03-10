@@ -1,3 +1,4 @@
+--Testing table value function
 --TABLE VALUES FUNCTION
 --SCALAR FUNCTION
 
@@ -57,6 +58,7 @@ BEGIN
 RETURN (@NUM1+@NUM2+@NUM3)
 
 END
+
 
 
 
